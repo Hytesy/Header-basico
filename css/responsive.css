@@ -1,0 +1,25 @@
+@media (max-width: 768px) {
+   .cabecalho {
+    flex-direction: column;
+    height: 85vh;
+   }
+
+   .logo {
+    font-size: 35px;
+   }
+   .menu {
+    display: flex;
+    flex-direction: column;
+   }
+
+   button {
+    background: none;
+    margin: 2px;
+    font-size: 40px;
+   }
+
+   .login {
+    font-size: 18px;
+    margin-top: 15px;
+   }
+}
